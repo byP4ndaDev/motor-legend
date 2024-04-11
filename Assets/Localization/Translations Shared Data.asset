@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Translations Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Translations
+  m_TableCollectionNameGuidString: ed75e88945176b547addb2e2af590938
+  m_Entries:
+  - m_Id: 171023511552
+    m_Key: StartMenu_StartButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 434031538176
+    m_Key: StartMenu_SettingsButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936122871885824
+    m_Key: SettingsMenu_LanguageSelectorTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936232452272128
+    m_Key: SettingsMenu_LanguageSelectorEnglish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2936309405167616
+    m_Key: SettingsMenu_LanguageSelectorGerman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4431776316108800
+    m_Key: EndScreen_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4432856072564736
+    m_Key: EndScreen_ScoreText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4432937605640192
+    m_Key: EndScreen_CoinsText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4436480794275840
+    m_Key: EndScreen_RestartText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4436543520092160
+    m_Key: EndScreen_MenuText
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2051946630408568856
+  references:
+    version: 2
+    RefIds:
+    - rid: 2051946630408568856
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1711634009054
